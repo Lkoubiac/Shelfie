@@ -34,6 +34,8 @@ Vidéothèque et ludothèque personnelles pour Mac : films, séries, jeux vidéo
 
 ![Coverflow](images/defile-3d.png)
 
+![Musique](images/musique.png)
+
 ## Installer
 
 1. Téléchargez le fichier `Shelfie-….zip` de la [dernière version](https://github.com/Lkoubiac/Shelfie/releases/latest).
